@@ -23,7 +23,7 @@
 | Car Controls      | Slow down/speed up wipers                           | 車の各種設定          |                                                                                    |
 | Car Controls      | Wipers Max                                          | 車の各種設定          |                                                                                    |
 | Car Controls      | Set wipers to auto/1/2/3/4                          | 車の各種設定          |                                                                                    |
-| Car Controls      | Fold/unfold mirrors                                 | 車の各種設定          |                                                                                    |
+| Car Controls      | Fold/unfold mirrors                                 | 車の各種設定          | ミラーを開いて、ミラーをクローズ、ミラーを折り畳んで                                                                                   |
 | Car Controls      | Open the glovebox                                   | 車の各種設定          | グローブボックスを開いて                                                           |
 | Car Controls      | Open/Close charge port                              | 車の各種設定          | チャージポートを開いて                                                             |
 | Car Controls      | Lock/Unlock doors                                   | 車の各種設定          | ドアをロックして                                                                   |
